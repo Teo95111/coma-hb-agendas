@@ -1,0 +1,384 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMA HB//Robot FFHandball//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COMA HB · Seniors M
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ffhb-2632963@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T213000
+SUMMARY:Seniors M · COMA HB – Cergy HB 1B 39-26
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\n1re division +16M · 3e journ
+ ée\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2
+ 027-22/departemental/1ere-division-16m-32468/poule-190731/rencontre-263296
+ 3/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2632963/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2632969@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261010T183000
+DTEND;TZID=Europe/Paris:20261010T200000
+SUMMARY:Seniors M · FB2M HB 1C – COMA HB 29-39
+LOCATION:Gymnase Maubuisson Bessancourt\, Bessancourt
+DESCRIPTION:Extérieur · Gymnase Maubuisson Bessancourt\, Bessancourt\n1re
+  division +16M · 4e journée\nFiche du match : https://www.ffhandball.fr/
+ competitions/saison-2026-2027-22/departemental/1ere-division-16m-32468/pou
+ le-190731/rencontre-2632969/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2632969/
+END:VEVENT
+BEGIN:VEVENT
+UID:match-seniors-m-20261017-as-sartrouville-hb@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261017T203000
+DTEND;TZID=Europe/Paris:20261017T220000
+SUMMARY:Seniors M · AS Sartrouville HB – COMA HB 29-37
+LOCATION:Gymnase Romain Rolland\, Sartrouville
+DESCRIPTION:Extérieur · Gymnase Romain Rolland\, Sartrouville\nCoupe de F
+ rance départementale masculine · 1ère journée · 1er tour\nFiche du ma
+ tch : https://scorenco.com/hand/match-as-sartrouville-handball-com-argente
+ uil-handball-1vhdl?e=15688841\nAgenda tenu à jour par le COMA HB.
+URL:https://scorenco.com/hand/match-as-sartrouville-handball-com-argenteuil
+ -handball-1vhdl?e=15688841
+END:VEVENT
+BEGIN:VEVENT
+UID:match-seniors-m-20261031-cs-meaux-hb@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261031T200000
+DTEND;TZID=Europe/Paris:20261031T213000
+SUMMARY:Seniors M · COMA HB – CS Meaux HB
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ Coupe de Ligue masculine · 1ère journée · 1/32 masc\nFiche du match : 
+ https://scorenco.com/hand/match-com-argenteuil-handball-cs-meaux-handball-
+ 1wauy?e=15773467\nAgenda tenu à jour par le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-cs-meaux-handba
+ ll-1wauy?e=15773467
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seniors M · COMA HB – CS Meaux HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2632975@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261107T200000
+DTEND;TZID=Europe/Paris:20261107T213000
+SUMMARY:Seniors M · COMA HB – Montmagny HB
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ 1re division +16M · 5e journée\nFiche du match : https://www.ffhandball.
+ fr/competitions/saison-2026-2027-22/departemental/1ere-division-16m-32468/
+ poule-190731/rencontre-2632975/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2632975/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seniors M · COMA HB – Montmagny HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2632981@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261114T203000
+DTEND;TZID=Europe/Paris:20261114T220000
+SUMMARY:Seniors M · US Ezanville / Ecouen HB 1B – COMA HB
+LOCATION:Gymnase La Prairie Ezanville\, Ezanville
+DESCRIPTION:Extérieur · Gymnase La Prairie Ezanville\, Ezanville\n1re div
+ ision +16M · 6e journée\nFiche du match : https://www.ffhandball.fr/comp
+ etitions/saison-2026-2027-22/departemental/1ere-division-16m-32468/poule-1
+ 90731/rencontre-2632981/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2632981/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seniors M · US Ezanville / Ecouen HB 1B – COMA HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2632987@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261128T200000
+DTEND;TZID=Europe/Paris:20261128T213000
+SUMMARY:Seniors M · COMA HB – Elite Val-d'Oise 1D
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\n1re division +16M · 7e journ
+ ée\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2
+ 027-22/departemental/1ere-division-16m-32468/poule-190731/rencontre-263298
+ 7/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2632987/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seniors M · COMA HB – Elite Val-d'Oise 1D
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2632993@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261205T203000
+DTEND;TZID=Europe/Paris:20261205T220000
+SUMMARY:Seniors M · HB St-Brice 95 1A – COMA HB
+LOCATION:Gymnase Lionel Terray St Brice sous Foret\, St-Brice-sous-Foret
+DESCRIPTION:Extérieur · Gymnase Lionel Terray St Brice sous Foret\, St-Br
+ ice-sous-Foret\n1re division +16M · 8e journée\nFiche du match : https:/
+ /www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/1ere-div
+ ision-16m-32468/poule-190731/rencontre-2632993/\nAgenda tenu à jour par l
+ e COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2632993/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seniors M · HB St-Brice 95 1A – COMA HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2632999@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T213000
+SUMMARY:Seniors M · COMA HB – HBC du Parisis 1B
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\n1re division +16M · 9e journ
+ ée\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2
+ 027-22/departemental/1ere-division-16m-32468/poule-190731/rencontre-263299
+ 9/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2632999/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seniors M · COMA HB – HBC du Parisis 1B
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633005@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · ARPF 95 1C – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\n1re division +16M · 10e journée\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ 1ere-division-16m-32468/poule-190731/rencontre-2633005/\nAgenda tenu à jo
+ ur par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633005/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633011@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · COMA HB – Eaubonne HB 1A (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\n1re division +16M · 11e journée\nFiche du match : h
+ ttps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/1e
+ re-division-16m-32468/poule-190731/rencontre-2633011/\nAgenda tenu à jour
+  par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633011/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633017@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · COMA HB – USDEM 1B (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\n1re division +16M · 12e journée\nFiche du match : h
+ ttps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/1e
+ re-division-16m-32468/poule-190731/rencontre-2633017/\nAgenda tenu à jour
+  par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633017/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633023@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · HBC Soisy / Andilly / Margency 1B – COMA HB (horaire
+  à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\n1re division +16M · 13e journée\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ 1ere-division-16m-32468/poule-190731/rencontre-2633023/\nAgenda tenu à jo
+ ur par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633023/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633029@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · Cergy HB 1B – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\n1re division +16M · 14e journée\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ 1ere-division-16m-32468/poule-190731/rencontre-2633029/\nAgenda tenu à jo
+ ur par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633029/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633035@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · COMA HB – FB2M HB 1C (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\n1re division +16M · 15e journée\nFiche du match : h
+ ttps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/1e
+ re-division-16m-32468/poule-190731/rencontre-2633035/\nAgenda tenu à jour
+  par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633035/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633041@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · Montmagny HB – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\n1re division +16M · 16e journée\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ 1ere-division-16m-32468/poule-190731/rencontre-2633041/\nAgenda tenu à jo
+ ur par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633041/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633047@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · COMA HB – US Ezanville / Ecouen HB 1B (horaire à co
+ nfirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\n1re division +16M · 17e journée\nFiche du match : h
+ ttps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/1e
+ re-division-16m-32468/poule-190731/rencontre-2633047/\nAgenda tenu à jour
+  par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633047/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633053@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · Elite Val-d'Oise 1D – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\n1re division +16M · 18e journée\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ 1ere-division-16m-32468/poule-190731/rencontre-2633053/\nAgenda tenu à jo
+ ur par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633053/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633059@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · COMA HB – HB St-Brice 95 1A (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\n1re division +16M · 19e journée\nFiche du match : h
+ ttps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/1e
+ re-division-16m-32468/poule-190731/rencontre-2633059/\nAgenda tenu à jour
+  par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633059/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633065@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · HBC du Parisis 1B – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\n1re division +16M · 20e journée\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ 1ere-division-16m-32468/poule-190731/rencontre-2633065/\nAgenda tenu à jo
+ ur par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633065/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633071@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · COMA HB – ARPF 95 1C (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\n1re division +16M · 21e journée\nFiche du match : h
+ ttps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/1e
+ re-division-16m-32468/poule-190731/rencontre-2633071/\nAgenda tenu à jour
+  par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633071/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2633077@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+TRANSP:TRANSPARENT
+SUMMARY:Seniors M · Eaubonne HB 1A – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\n1re division +16M · 22e journée\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ 1ere-division-16m-32468/poule-190731/rencontre-2633077/\nAgenda tenu à jo
+ ur par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/1ere-division-16m-32468/poule-190731/rencontre-2633077/
+END:VEVENT
+END:VCALENDAR
