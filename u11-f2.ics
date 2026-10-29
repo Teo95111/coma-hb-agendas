@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMA HB//Robot FFHandball//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COMA HB · U11 F2
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:match-u11-f2-20261114-cergy-hb-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:U11 F2 · Cergy HB 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U11F · 1ère journée · U11F poule B\
+ nFiche du match : https://scorenco.com/hand/match-cergy-handball-u11-f1-co
+ m-argenteuil-handball-u11-f2-i94f?e=15909632\nAgenda tenu à jour par le C
+ OMA HB.
+URL:https://scorenco.com/hand/match-cergy-handball-u11-f1-com-argenteuil-ha
+ ndball-u11-f2-i94f?e=15909632
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f2-20261121-evo-2@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:U11 F2 · COMA HB – Evo 2 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 2ème journée · U11F poule B\nF
+ iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
+ 1-f2-elite-val-d-oise-handball-u11-f2-18hya?e=15909652\nAgenda tenu à jou
+ r par le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-elite-va
+ l-d-oise-handball-u11-f2-18hya?e=15909652
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f2-20261128-aas-sarcelles-villiers-le-bel@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:U11 F2 · COMA HB – Aas Sarcelles / Villiers-le-Bel (horaire à c
+ onfirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 3ème journée · U11F poule B\nF
+ iche du match : https://scorenco.com/hand/match-aas-sarcelles-handball-u11
+ -f1-com-argenteuil-handball-u11-f2-rkh3?e=15909687\nAgenda tenu à jour pa
+ r le COMA HB.
+URL:https://scorenco.com/hand/match-aas-sarcelles-handball-u11-f1-com-argen
+ teuil-handball-u11-f2-rkh3?e=15909687
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f2-20261212-montmagny-hb-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:U11 F2 · COMA HB – Montmagny HB 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 5ème journée · U11F poule B\nF
+ iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
+ 1-f2-montmagny-handball-u11-f1-i94i?e=15909716\nAgenda tenu à jour par le
+  COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-montmagn
+ y-handball-u11-f1-i94i?e=15909716
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f2-20270116-us-ezanville-ecouen-hb-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:U11 F2 · US Ezanville / Ecouen HB 1 – COMA HB (horaire à confir
+ mer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U11F · 6ème journée · U11F poule B\
+ nFiche du match : https://scorenco.com/hand/match-com-argenteuil-handball-
+ u11-f2-union-sportive-ezanvilleecouen-handball-u11-f1-1xjp9?e=15909633\nAg
+ enda tenu à jour par le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-union-sp
+ ortive-ezanvilleecouen-handball-u11-f1-1xjp9?e=15909633
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f2-20270123-hb-goussainville-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:U11 F2 · COMA HB – HB Goussainville 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 7ème journée · U11F poule B\nF
+ iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
+ 1-f2-handball-goussainville-u11-f1-1xjpf?e=15909666\nAgenda tenu à jour p
+ ar le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-handball
+ -goussainville-u11-f1-1xjpf?e=15909666
+END:VEVENT
+END:VCALENDAR
