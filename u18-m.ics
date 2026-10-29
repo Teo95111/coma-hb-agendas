@@ -1,0 +1,312 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMA HB//Robot FFHandball//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COMA HB · U18 M
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ffhb-2734978@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;TZID=Europe/Paris:20261003T180000
+DTEND;TZID=Europe/Paris:20261003T193000
+SUMMARY:U18 M · COMA HB – HBC St-Leu / Taverny 1 36-32
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nU18M délayage PH · 1e journ
+ ée · U18M PH2\nFiche du match : https://www.ffhandball.fr/competitions/s
+ aison-2026-2027-22/departemental/championnat-u18m-33055/poule-197339/renco
+ ntre-2734978/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-197339/rencontre-2734978/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2734981@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;TZID=Europe/Paris:20261017T140000
+DTEND;TZID=Europe/Paris:20261017T153000
+SUMMARY:U18 M · US Deuil-Enghien-Montmorency 1 – COMA HB 32-17
+LOCATION:Gymnase Alain-Mimoun Deuil la Barre\, Deuil-la-Barre
+DESCRIPTION:Extérieur · Gymnase Alain-Mimoun Deuil la Barre\, Deuil-la-Ba
+ rre\nU18M délayage PH · 3e journée · U18M PH2\nFiche du match : https:
+ //www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/champio
+ nnat-u18m-33055/poule-197339/rencontre-2734981/\nAgenda tenu à jour par l
+ e COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-197339/rencontre-2734981/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767700@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;TZID=Europe/Paris:20261107T174500
+DTEND;TZID=Europe/Paris:20261107T191500
+SUMMARY:U18 M · COMA HB – Eaubonne HB 2
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ Championnat U18M · 1e journée · U18M 2e division\nFiche du match : http
+ s://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/champ
+ ionnat-u18m-33055/poule-199673/rencontre-2767700/\nAgenda tenu à jour par
+  le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767700/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U18 M · COMA HB – Eaubonne HB 2
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767708@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · HBC St-Leu / Taverny 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U18M · 2e journée · U18M 2e division
+ \nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027
+ -22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767708/\n
+ Agenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767708/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767711@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · COMA HB – ACSC Cormeilles HB 2 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U18M · 3e journée · U18M 2e division\n
+ Fiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-2
+ 2/departemental/championnat-u18m-33055/poule-199673/rencontre-2767711/\nAg
+ enda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767711/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767715@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;TZID=Europe/Paris:20261128T181500
+DTEND;TZID=Europe/Paris:20261128T194500
+SUMMARY:U18 M · US Ezanville / Ecouen HB 1 – COMA HB
+LOCATION:Gymnase La Prairie Ezanville\, Ezanville
+DESCRIPTION:Extérieur · Gymnase La Prairie Ezanville\, Ezanville\nChampio
+ nnat U18M · 4e journée · U18M 2e division\nFiche du match : https://www
+ .ffhandball.fr/competitions/saison-2026-2027-22/departemental/championnat-
+ u18m-33055/poule-199673/rencontre-2767715/\nAgenda tenu à jour par le COM
+ A HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767715/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U18 M · US Ezanville / Ecouen HB 1 – COMA HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767721@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · COMA HB – Elite Val-d'Oise 3 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U18M · 5e journée · U18M 2e division\n
+ Fiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-2
+ 2/departemental/championnat-u18m-33055/poule-199673/rencontre-2767721/\nAg
+ enda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767721/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767728@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · Ent. St Brice / Montmagny 1 – COMA HB (horaire à confir
+ mer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U18M · 6e journée · U18M 2e division
+ \nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027
+ -22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767728/\n
+ Agenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767728/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767731@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · COMA HB – Aas Sarcelles / Villiers-le-Bel HB 1 (horaire 
+ à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U18M · 7e journée · U18M 2e division\n
+ Fiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-2
+ 2/departemental/championnat-u18m-33055/poule-199673/rencontre-2767731/\nAg
+ enda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767731/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767736@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · COMA HB – USDEM 2 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U18M · 8e journée · U18M 2e division\n
+ Fiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-2
+ 2/departemental/championnat-u18m-33055/poule-199673/rencontre-2767736/\nAg
+ enda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767736/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767745@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · Eaubonne HB 2 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U18M · 10e journée · U18M 2e divisio
+ n\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767745/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767745/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767753@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · COMA HB – HBC St-Leu / Taverny 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U18M · 11e journée · U18M 2e division\
+ nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-
+ 22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767753/\nA
+ genda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767753/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767756@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · ACSC Cormeilles HB 2 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U18M · 12e journée · U18M 2e divisio
+ n\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767756/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767756/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767760@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · COMA HB – US Ezanville / Ecouen HB 1 (horaire à confirm
+ er)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U18M · 13e journée · U18M 2e division\
+ nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-
+ 22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767760/\nA
+ genda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767760/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767766@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · Elite Val-d'Oise 3 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U18M · 14e journée · U18M 2e divisio
+ n\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767766/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767766/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767773@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · COMA HB – Ent. St Brice / Montmagny 1 (horaire à confir
+ mer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U18M · 15e journée · U18M 2e division\
+ nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-
+ 22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767773/\nA
+ genda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767773/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767776@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · Aas Sarcelles / Villiers-le-Bel HB 1 – COMA HB (horaire 
+ à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U18M · 16e journée · U18M 2e divisio
+ n\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767776/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767776/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2767781@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:U18 M · USDEM 2 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U18M · 17e journée · U18M 2e divisio
+ n\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u18m-33055/poule-199673/rencontre-2767781/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u18m-33055/poule-199673/rencontre-2767781/
+END:VEVENT
+END:VCALENDAR
