@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMA HB//Robot FFHandball//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COMA HB · U11 F1
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:match-u11-f1-20261121-evo-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:U11 F1 · COMA HB – Evo 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 2ème journée · U11F poule A\nF
+ iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
+ 1-f1-elite-val-d-oise-handball-u11-f1-rkh6?e=15909515\nAgenda tenu à jour
+  par le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f1-elite-va
+ l-d-oise-handball-u11-f1-rkh6?e=15909515
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f1-20261128-cergy-hb-2@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:U11 F1 · COMA HB – Cergy HB 2 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 3ème journée · U11F poule A\nF
+ iche du match : https://scorenco.com/hand/match-cergy-handball-u11-f2-com-
+ argenteuil-handball-u11-f1-1xjok?e=15909525\nAgenda tenu à jour par le CO
+ MA HB.
+URL:https://scorenco.com/hand/match-cergy-handball-u11-f2-com-argenteuil-ha
+ ndball-u11-f1-1xjok?e=15909525
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f1-20261205-hbc-parisis-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;TZID=Europe/Paris:20261205T113000
+DTEND;TZID=Europe/Paris:20261205T130000
+SUMMARY:U11 F1 · HBC Parisis 1 – COMA HB
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U11F · 4ème journée · U11F poule A\
+ nFiche du match : https://scorenco.com/hand/match-com-argenteuil-handball-
+ u11-f1-handball-club-du-parisis-u11-f1-i945?e=15909541\nAgenda tenu à jou
+ r par le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f1-handball
+ -club-du-parisis-u11-f1-i945?e=15909541
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U11 F1 · HBC Parisis 1 – COMA HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f1-20261212-assoa-hb-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:U11 F1 · COMA HB – ASSOA HB 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 5ème journée · U11F poule A\nF
+ iche du match : https://scorenco.com/hand/match-assoa-handball-u11-f1-com-
+ argenteuil-handball-u11-f1-12cci?e=15909549\nAgenda tenu à jour par le CO
+ MA HB.
+URL:https://scorenco.com/hand/match-assoa-handball-u11-f1-com-argenteuil-ha
+ ndball-u11-f1-12cci?e=15909549
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f1-20270116-hbc-st-leu-taverny-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:U11 F1 · HBC St-Leu / Taverny 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U11F · 6ème journée · U11F poule A\
+ nFiche du match : https://scorenco.com/hand/match-com-argenteuil-handball-
+ u11-f1-handball-club-st-leu-taverny-u11-f1-rkgb?e=15909572\nAgenda tenu à
+  jour par le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f1-handball
+ -club-st-leu-taverny-u11-f1-rkgb?e=15909572
+END:VEVENT
+BEGIN:VEVENT
+UID:match-u11-f1-20270123-ent-eaubonne-usdem-1@comahb95
+DTSTAMP:20261029T222527Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:U11 F1 · COMA HB – Ent Eaubonne / USDEM 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U11F · 7ème journée · U11F poule A\nF
+ iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
+ 1-f1-csm-eaubonne-handball-u11-f1-jy7v?e=15909606\nAgenda tenu à jour par
+  le COMA HB.
+URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f1-csm-eaub
+ onne-handball-u11-f1-jy7v?e=15909606
+END:VEVENT
+END:VCALENDAR
