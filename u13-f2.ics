@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMA HB//Robot FFHandball//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COMA HB · U13 F2
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ffhb-2739454@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261003T160000
+DTEND;TZID=Europe/Paris:20261003T173000
+SUMMARY:U13 F2 · COMA HB – Ent. Eaubonne / USDEM U13f 2 18-11
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nU13F délayage · 1e journée 
+ · U13F poule C\nFiche du match : https://www.ffhandball.fr/competitions/s
+ aison-2026-2027-22/departemental/championnat-u13f-32913/poule-197870/renco
+ ntre-2739454/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-197870/rencontre-2739454/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2739456@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261010T140000
+DTEND;TZID=Europe/Paris:20261010T153000
+SUMMARY:U13 F2 · HVO HB l'Isle-Adam / Persan 1 – COMA HB 4-19
+LOCATION:Gymnase Amelie Mauresmo L Isle Adam\, L-Isle-Adam
+DESCRIPTION:Extérieur · Gymnase Amelie Mauresmo L Isle Adam\, L-Isle-Adam
+ \nU13F délayage · 2e journée · U13F poule C\nFiche du match : https://
+ www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/championn
+ at-u13f-32913/poule-197870/rencontre-2739456/\nAgenda tenu à jour par le 
+ COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-197870/rencontre-2739456/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2739457@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261018T100000
+DTEND;TZID=Europe/Paris:20261018T113000
+SUMMARY:U13 F2 · HBC du Parisis 1 – COMA HB 27-13
+LOCATION:COSEC Macaire Herblay\, Herblay
+DESCRIPTION:Extérieur · COSEC Macaire Herblay\, Herblay\nU13F délayage 
+ · 3e journée · U13F poule C\nFiche du match : https://www.ffhandball.fr
+ /competitions/saison-2026-2027-22/departemental/championnat-u13f-32913/pou
+ le-197870/rencontre-2739457/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-197870/rencontre-2739457/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768409@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261107T141500
+DTEND;TZID=Europe/Paris:20261107T154500
+SUMMARY:U13 F2 · COMA HB – Magny HBC 1
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ Championnat U13F · 1e journée · U13F 2e div poule B\nFiche du match : h
+ ttps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/ch
+ ampionnat-u13f-32913/poule-199968/rencontre-2768409/\nAgenda tenu à jour 
+ par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768409/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U13 F2 · COMA HB – Magny HBC 1
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768415@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:U13 F2 · HVO HB l'Isle-Adam / Persan 1 – COMA HB
+LOCATION:Gymnase Amelie Mauresmo L Isle Adam\, L-Isle-Adam
+DESCRIPTION:Extérieur · Gymnase Amelie Mauresmo L Isle Adam\, L-Isle-Adam
+ \nChampionnat U13F · 3e journée · U13F 2e div poule B\nFiche du match :
+  https://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/
+ championnat-u13f-32913/poule-199968/rencontre-2768415/\nAgenda tenu à jou
+ r par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768415/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U13 F2 · HVO HB l'Isle-Adam / Persan 1 – COMA HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768416@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:U13 F2 · COMA HB – Elite Val-d'Oise 2 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13F · 4e journée · U13F 2e div poule 
+ B\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u13f-32913/poule-199968/rencontre-2768416/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768416/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768420@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261205T144500
+DTEND;TZID=Europe/Paris:20261205T161500
+SUMMARY:U13 F2 · US Ezanville / Ecouenhb 1 – COMA HB
+LOCATION:Gymnase La Prairie Ezanville\, Ezanville
+DESCRIPTION:Extérieur · Gymnase La Prairie Ezanville\, Ezanville\nChampio
+ nnat U13F · 5e journée · U13F 2e div poule B\nFiche du match : https://
+ www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/championn
+ at-u13f-32913/poule-199968/rencontre-2768420/\nAgenda tenu à jour par le 
+ COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768420/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U13 F2 · US Ezanville / Ecouenhb 1 – COMA HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768424@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:U13 F2 · Magny HBC 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13F · 6e journée · U13F 2e div poul
+ e B\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2
+ 027-22/departemental/championnat-u13f-32913/poule-199968/rencontre-2768424
+ /\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768424/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768430@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:U13 F2 · COMA HB – HVO HB l'Isle-Adam / Persan 1 (horaire à con
+ firmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13F · 8e journée · U13F 2e div poule 
+ B\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u13f-32913/poule-199968/rencontre-2768430/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768430/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768431@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:U13 F2 · Elite Val-d'Oise 2 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13F · 9e journée · U13F 2e div poul
+ e B\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2
+ 027-22/departemental/championnat-u13f-32913/poule-199968/rencontre-2768431
+ /\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768431/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2768435@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:U13 F2 · COMA HB – US Ezanville / Ecouenhb 1 (horaire à confirm
+ er)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13F · 10e journée · U13F 2e div poule
+  B\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-20
+ 27-22/departemental/championnat-u13f-32913/poule-199968/rencontre-2768435/
+ \nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13f-32913/poule-199968/rencontre-2768435/
+END:VEVENT
+END:VCALENDAR
