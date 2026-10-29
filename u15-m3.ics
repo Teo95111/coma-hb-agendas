@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMA HB//Robot FFHandball//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COMA HB · U15 M3
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ffhb-2759013@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;TZID=Europe/Paris:20261108T140000
+DTEND;TZID=Europe/Paris:20261108T153000
+SUMMARY:U15 M3 · COMA HB – FB2M HB 1
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ Championnat U15M · 1e journée · U15M 3e div\nFiche du match : https://w
+ ww.ffhandball.fr/competitions/saison-2026-2027-22/departemental/championna
+ t-u15m-33118/poule-199587/rencontre-2759013/\nAgenda tenu à jour par le C
+ OMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759013/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U15 M3 · COMA HB – FB2M HB 1
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759018@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · ARPF 95 3 – COMA HB (horaire à confirmer)
+LOCATION:Gymnase Tournelles Roissy en France\, Roissy-en-France
+DESCRIPTION:Extérieur · Gymnase Tournelles Roissy en France\, Roissy-en-F
+ rance\nChampionnat U15M · 2e journée · U15M 3e div\nFiche du match : ht
+ tps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/cha
+ mpionnat-u15m-33118/poule-199587/rencontre-2759018/\nAgenda tenu à jour p
+ ar le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759018/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759023@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – ASSOA HB 2 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 3e journé
+ e · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competitions/
+ saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/renc
+ ontre-2759023/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759023/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759025@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · Eaubonne HB 1 – COMA HB (horaire à confirmer)
+LOCATION:Gymnase Georges-Hebert Eaubonne\, Eaubonne
+DESCRIPTION:Extérieur · Gymnase Georges-Hebert Eaubonne\, Eaubonne\nChamp
+ ionnat U15M · 4e journée · U15M 3e div\nFiche du match : https://www.ff
+ handball.fr/competitions/saison-2026-2027-22/departemental/championnat-u15
+ m-33118/poule-199587/rencontre-2759025/\nAgenda tenu à jour par le COMA H
+ B.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759025/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759033@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – COMA HB 2 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 5e journé
+ e · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competitions/
+ saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/renc
+ ontre-2759033/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759033/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759038@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · HBC St-Leu / Taverny 2 – COMA HB (horaire à confirmer)
+LOCATION:Gymnase Andre Messager Taverny\, Taverny
+DESCRIPTION:Extérieur · Gymnase Andre Messager Taverny\, Taverny\nChampio
+ nnat U15M · 6e journée · U15M 3e div\nFiche du match : https://www.ffha
+ ndball.fr/competitions/saison-2026-2027-22/departemental/championnat-u15m-
+ 33118/poule-199587/rencontre-2759038/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759038/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759043@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – ACSC Cormeilles HB 2 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 7e journé
+ e · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competitions/
+ saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/renc
+ ontre-2759043/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759043/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759046@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · Magny HBC 1 – COMA HB (horaire à confirmer)
+LOCATION:Gymnase Jean Zay Magny en Vexin\, Magny-en-Vexin
+DESCRIPTION:Extérieur · Gymnase Jean Zay Magny en Vexin\, Magny-en-Vexin\
+ nChampionnat U15M · 8e journée · U15M 3e div\nFiche du match : https://
+ www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/championn
+ at-u15m-33118/poule-199587/rencontre-2759046/\nAgenda tenu à jour par le 
+ COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759046/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759053@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – Alliance 95 Est (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 9e journé
+ e · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competitions/
+ saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/renc
+ ontre-2759053/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759053/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759058@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · FB2M HB 1 – COMA HB (horaire à confirmer)
+LOCATION:Gymnase Andre Leducq Meriel\, Meriel
+DESCRIPTION:Extérieur · Gymnase Andre Leducq Meriel\, Meriel\nChampionnat
+  U15M · 10e journée · U15M 3e div\nFiche du match : https://www.ffhandb
+ all.fr/competitions/saison-2026-2027-22/departemental/championnat-u15m-331
+ 18/poule-199587/rencontre-2759058/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759058/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759063@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – ARPF 95 3 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 11e journ
+ ée · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competition
+ s/saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/re
+ ncontre-2759063/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759063/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759068@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · ASSOA HB 2 – COMA HB (horaire à confirmer)
+LOCATION:Gymnase Armand Lecomte St Ouen L Aumone\, St-Ouen-L-Aumone
+DESCRIPTION:Extérieur · Gymnase Armand Lecomte St Ouen L Aumone\, St-Ouen
+ -L-Aumone\nChampionnat U15M · 12e journée · U15M 3e div\nFiche du match
+  : https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759068/\nAgenda tenu à j
+ our par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759068/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759070@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – Eaubonne HB 1 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 13e journ
+ ée · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competition
+ s/saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/re
+ ncontre-2759070/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759070/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759083@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – HBC St-Leu / Taverny 2 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 15e journ
+ ée · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competition
+ s/saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/re
+ ncontre-2759083/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759083/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759088@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · ACSC Cormeilles HB 2 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U15M · 16e journée · U15M 3e div\nFi
+ che du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/
+ departemental/championnat-u15m-33118/poule-199587/rencontre-2759088/\nAgen
+ da tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759088/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759091@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · COMA HB – Magny HBC 1 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15M · 17e journ
+ ée · U15M 3e div\nFiche du match : https://www.ffhandball.fr/competition
+ s/saison-2026-2027-22/departemental/championnat-u15m-33118/poule-199587/re
+ ncontre-2759091/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759091/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2759098@comahb95
+DTSTAMP:20261029T222942Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+TRANSP:TRANSPARENT
+SUMMARY:U15 M3 · Alliance 95 Est – COMA HB (horaire à confirmer)
+LOCATION:Gymnase Auguste Delaune Arnouville les Gonesse\, Arnouville-les-Go
+ nesse
+DESCRIPTION:Extérieur · Gymnase Auguste Delaune Arnouville les Gonesse\, 
+ Arnouville-les-Gonesse\nChampionnat U15M · 18e journée · U15M 3e div\nF
+ iche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22
+ /departemental/championnat-u15m-33118/poule-199587/rencontre-2759098/\nAge
+ nda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15m-33118/poule-199587/rencontre-2759098/
+END:VEVENT
+END:VCALENDAR
