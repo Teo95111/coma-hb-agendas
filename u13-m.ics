@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//COMA HB//Robot FFHandball//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:COMA HB · U13 M
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ffhb-2738756@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261004T140000
+DTEND;TZID=Europe/Paris:20261004T153000
+SUMMARY:U13 M · USDEM 1 – COMA HB 23-12
+LOCATION:Gymnase Alain-Mimoun Deuil la Barre\, Deuil-la-Barre
+DESCRIPTION:Extérieur · Gymnase Alain-Mimoun Deuil la Barre\, Deuil-la-Ba
+ rre\nU13M délayage haut · 1e journée · U13M PH 4\nFiche du match : htt
+ ps://www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/cham
+ pionnat-u13m-32915/poule-197783/rencontre-2738756/\nAgenda tenu à jour pa
+ r le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-197783/rencontre-2738756/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2738759@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261010T154500
+DTEND;TZID=Europe/Paris:20261010T171500
+SUMMARY:U13 M · COMA HB – ASFM 1 17-32
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nU13M délayage haut · 2e jour
+ née · U13M PH 4\nFiche du match : https://www.ffhandball.fr/competitions
+ /saison-2026-2027-22/departemental/championnat-u13m-32915/poule-197783/ren
+ contre-2738759/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-197783/rencontre-2738759/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2738761@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261018T133000
+DTEND;TZID=Europe/Paris:20261018T150000
+SUMMARY:U13 M · FB2M HB 1 – COMA HB 25-15
+LOCATION:Gymnase Andre Leducq Meriel\, Meriel
+DESCRIPTION:Extérieur · Gymnase Andre Leducq Meriel\, Meriel\nU13M délay
+ age haut · 3e journée · U13M PH 4\nFiche du match : https://www.ffhandb
+ all.fr/competitions/saison-2026-2027-22/departemental/championnat-u13m-329
+ 15/poule-197783/rencontre-2738761/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-197783/rencontre-2738761/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758540@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · FB2M HB 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13M · 1e journée · U13M 2e div\nFic
+ he du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/d
+ epartemental/championnat-u13m-32915/poule-199571/rencontre-2758540/\nAgend
+ a tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758540/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758543@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;TZID=Europe/Paris:20261114T153000
+DTEND;TZID=Europe/Paris:20261114T170000
+SUMMARY:U13 M · COMA HB – Montmagny HB 1
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ Championnat U13M · 2e journée · U13M 2e div\nFiche du match : https://w
+ ww.ffhandball.fr/competitions/saison-2026-2027-22/departemental/championna
+ t-u13m-32915/poule-199571/rencontre-2758543/\nAgenda tenu à jour par le C
+ OMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758543/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U13 M · COMA HB – Montmagny HB 1
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758546@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · Eaubonne HB 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13M · 3e journée · U13M 2e div\nFic
+ he du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/d
+ epartemental/championnat-u13m-32915/poule-199571/rencontre-2758546/\nAgend
+ a tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758546/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758551@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · HB St-Brice 95 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13M · 4e journée · U13M 2e div\nFic
+ he du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/d
+ epartemental/championnat-u13m-32915/poule-199571/rencontre-2758551/\nAgend
+ a tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758551/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758556@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · COMA HB – HBC St-Leu / Taverny 1 (horaire à confirmer)
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U13M · 5e journé
+ e · U13M 2e div\nFiche du match : https://www.ffhandball.fr/competitions/
+ saison-2026-2027-22/departemental/championnat-u13m-32915/poule-199571/renc
+ ontre-2758556/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758556/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758561@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · Aas Sarcelles / Villiers-le-Bel HB 1 – COMA HB (horaire 
+ à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13M · 6e journée · U13M 2e div\nFic
+ he du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/d
+ epartemental/championnat-u13m-32915/poule-199571/rencontre-2758561/\nAgend
+ a tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758561/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758565@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · COMA HB – ACSC Cormeilles HB 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13M · 7e journée · U13M 2e div\nFiche
+  du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/dep
+ artemental/championnat-u13m-32915/poule-199571/rencontre-2758565/\nAgenda 
+ tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758565/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758568@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · COMA HB – FB2M HB 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13M · 8e journée · U13M 2e div\nFiche
+  du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/dep
+ artemental/championnat-u13m-32915/poule-199571/rencontre-2758568/\nAgenda 
+ tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758568/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758571@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · Montmagny HB 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13M · 9e journée · U13M 2e div\nFic
+ he du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/d
+ epartemental/championnat-u13m-32915/poule-199571/rencontre-2758571/\nAgend
+ a tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758571/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758574@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · COMA HB – Eaubonne HB 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13M · 10e journée · U13M 2e div\nFich
+ e du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/de
+ partemental/championnat-u13m-32915/poule-199571/rencontre-2758574/\nAgenda
+  tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758574/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758579@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · COMA HB – HB St-Brice 95 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13M · 11e journée · U13M 2e div\nFich
+ e du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/de
+ partemental/championnat-u13m-32915/poule-199571/rencontre-2758579/\nAgenda
+  tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758579/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758584@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · HBC St-Leu / Taverny 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13M · 12e journée · U13M 2e div\nFi
+ che du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/
+ departemental/championnat-u13m-32915/poule-199571/rencontre-2758584/\nAgen
+ da tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758584/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758589@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · COMA HB – Aas Sarcelles / Villiers-le-Bel HB 1 (horaire 
+ à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U13M · 13e journée · U13M 2e div\nFich
+ e du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/de
+ partemental/championnat-u13m-32915/poule-199571/rencontre-2758589/\nAgenda
+  tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758589/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758593@comahb95
+DTSTAMP:20261029T222528Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:U13 M · ACSC Cormeilles HB 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U13M · 14e journée · U13M 2e div\nFi
+ che du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/
+ departemental/championnat-u13m-32915/poule-199571/rencontre-2758593/\nAgen
+ da tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u13m-32915/poule-199571/rencontre-2758593/
+END:VEVENT
+END:VCALENDAR
