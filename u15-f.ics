@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ffhb-2761905@comahb95
-DTSTAMP:20261108T075126Z
+DTSTAMP:20261109T211023Z
 DTSTART;TZID=Europe/Paris:20261107T154500
 DTEND;TZID=Europe/Paris:20261107T171500
 SUMMARY:U15 F · COMA HB – HBC Soisy / Andilly / Margency 1 32-7
@@ -41,7 +41,7 @@ URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
 END:VEVENT
 BEGIN:VEVENT
 UID:ffhb-2761907@comahb95
-DTSTAMP:20261108T075126Z
+DTSTAMP:20261109T211023Z
 DTSTART;TZID=Europe/Paris:20261114T173000
 DTEND;TZID=Europe/Paris:20261114T190000
 SUMMARY:U15 F · Montmagny HB 1 – COMA HB
@@ -61,17 +61,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ffhb-2761909@comahb95
-DTSTAMP:20261108T075126Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-TRANSP:TRANSPARENT
-SUMMARY:U15 F · COMA HB – Ent Evo Parisis 3 U15f (horaire à confirmer)
-LOCATION:Domicile\, salle à confirmer
-DESCRIPTION:Domicile\nU15F délayage · 3e journée · U15F poule D\nFiche 
- du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/depa
- rtemental/championnat-u15f-33460/poule-199686/rencontre-2761909/\nAgenda t
- enu à jour par le COMA HB.
+DTSTAMP:20261109T211023Z
+DTSTART;TZID=Europe/Paris:20261122T130000
+DTEND;TZID=Europe/Paris:20261122T143000
+SUMMARY:U15 F · COMA HB – Ent Evo Parisis 3 U15f
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ U15F délayage · 3e journée · U15F poule D\nFiche du match : https://ww
+ w.ffhandball.fr/competitions/saison-2026-2027-22/departemental/championnat
+ -u15f-33460/poule-199686/rencontre-2761909/\nAgenda tenu à jour par le CO
+ MA HB.
 URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
  l/championnat-u15f-33460/poule-199686/rencontre-2761909/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U15 F · COMA HB – Ent Evo Parisis 3 U15f
+TRIGGER:-PT2H
+END:VALARM
 END:VEVENT
 END:VCALENDAR
