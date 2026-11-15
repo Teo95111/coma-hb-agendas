@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ffhb-2761905@comahb95
-DTSTAMP:20261109T211023Z
+DTSTAMP:20261115T211010Z
 DTSTART;TZID=Europe/Paris:20261107T154500
 DTEND;TZID=Europe/Paris:20261107T171500
 SUMMARY:U15 F · COMA HB – HBC Soisy / Andilly / Margency 1 32-7
@@ -41,10 +41,10 @@ URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
 END:VEVENT
 BEGIN:VEVENT
 UID:ffhb-2761907@comahb95
-DTSTAMP:20261109T211023Z
+DTSTAMP:20261115T211010Z
 DTSTART;TZID=Europe/Paris:20261114T173000
 DTEND;TZID=Europe/Paris:20261114T190000
-SUMMARY:U15 F · Montmagny HB 1 – COMA HB
+SUMMARY:U15 F · Montmagny HB 1 – COMA HB 10-26
 LOCATION:Gymnase Charles Grimaud Montmagny\, Montmagny
 DESCRIPTION:Extérieur · Gymnase Charles Grimaud Montmagny\, Montmagny\nU1
  5F délayage · 2e journée · U15F poule D\nFiche du match : https://www.
@@ -53,15 +53,10 @@ DESCRIPTION:Extérieur · Gymnase Charles Grimaud Montmagny\, Montmagny\nU1
   HB.
 URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
  l/championnat-u15f-33460/poule-199686/rencontre-2761907/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:U15 F · Montmagny HB 1 – COMA HB
-TRIGGER:-PT2H
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ffhb-2761909@comahb95
-DTSTAMP:20261109T211023Z
+DTSTAMP:20261115T211010Z
 DTSTART;TZID=Europe/Paris:20261122T130000
 DTEND;TZID=Europe/Paris:20261122T143000
 SUMMARY:U15 F · COMA HB – Ent Evo Parisis 3 U15f
