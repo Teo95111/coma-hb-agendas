@@ -25,95 +25,122 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:match-u11-f2-20261114-cergy-hb-1@comahb95
-DTSTAMP:20261029T222527Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-TRANSP:TRANSPARENT
-SUMMARY:U11 F2 · Cergy HB 1 – COMA HB (horaire à confirmer)
-LOCATION:Extérieur\, salle à confirmer
-DESCRIPTION:Extérieur\nChampionnat U11F · 1ère journée · U11F poule B\
- nFiche du match : https://scorenco.com/hand/match-cergy-handball-u11-f1-co
- m-argenteuil-handball-u11-f2-i94f?e=15909632\nAgenda tenu à jour par le C
- OMA HB.
-URL:https://scorenco.com/hand/match-cergy-handball-u11-f1-com-argenteuil-ha
- ndball-u11-f2-i94f?e=15909632
+UID:ffhb-2758314@comahb95
+DTSTAMP:20261123T110640Z
+DTSTART;TZID=Europe/Paris:20261115T113000
+DTEND;TZID=Europe/Paris:20261115T130000
+SUMMARY:U11 F2 · Cergy HB 1 – COMA HB 25-2
+LOCATION:Gymnase des Gres\, Cergy
+DESCRIPTION:Extérieur · Gymnase des Gres\, Cergy\nChampionnat U11F · 1e 
+ journée · U11F poule B\nFiche du match : https://www.ffhandball.fr/compe
+ titions/saison-2026-2027-22/departemental/championnat-u11f-33634/poule-199
+ 553/rencontre-2758314/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u11f-33634/poule-199553/rencontre-2758314/
 END:VEVENT
 BEGIN:VEVENT
-UID:match-u11-f2-20261121-evo-2@comahb95
-DTSTAMP:20261029T222527Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-TRANSP:TRANSPARENT
-SUMMARY:U11 F2 · COMA HB – Evo 2 (horaire à confirmer)
-LOCATION:Domicile\, salle à confirmer
-DESCRIPTION:Domicile\nChampionnat U11F · 2ème journée · U11F poule B\nF
- iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
- 1-f2-elite-val-d-oise-handball-u11-f2-18hya?e=15909652\nAgenda tenu à jou
- r par le COMA HB.
-URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-elite-va
- l-d-oise-handball-u11-f2-18hya?e=15909652
+UID:ffhb-2758318@comahb95
+DTSTAMP:20261123T110640Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T153000
+SUMMARY:U11 F2 · COMA HB – EVO 2 5-16
+LOCATION:Gymnase Pierre-de-Coubertin\, Argenteuil
+DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
+ Championnat U11F · 2e journée · U11F poule B\nFiche du match : https://
+ www.ffhandball.fr/competitions/saison-2026-2027-22/departemental/championn
+ at-u11f-33634/poule-199553/rencontre-2758318/\nAgenda tenu à jour par le 
+ COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u11f-33634/poule-199553/rencontre-2758318/
 END:VEVENT
 BEGIN:VEVENT
-UID:match-u11-f2-20261128-aas-sarcelles-villiers-le-bel@comahb95
-DTSTAMP:20261029T222527Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:U11 F2 · COMA HB – Aas Sarcelles / Villiers-le-Bel (horaire à c
- onfirmer)
-LOCATION:Domicile\, salle à confirmer
-DESCRIPTION:Domicile\nChampionnat U11F · 3ème journée · U11F poule B\nF
- iche du match : https://scorenco.com/hand/match-aas-sarcelles-handball-u11
- -f1-com-argenteuil-handball-u11-f2-rkh3?e=15909687\nAgenda tenu à jour pa
- r le COMA HB.
-URL:https://scorenco.com/hand/match-aas-sarcelles-handball-u11-f1-com-argen
- teuil-handball-u11-f2-rkh3?e=15909687
+UID:ffhb-2758322@comahb95
+DTSTAMP:20261123T110640Z
+DTSTART;TZID=Europe/Paris:20261128T133000
+DTEND;TZID=Europe/Paris:20261128T150000
+SUMMARY:U11 F2 · COMA HB – AAS Sarcelles / Villiers-Le-Bel HB 1
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U11F · 3e journé
+ e · U11F poule B\nFiche du match : https://www.ffhandball.fr/competitions
+ /saison-2026-2027-22/departemental/championnat-u11f-33634/poule-199553/ren
+ contre-2758322/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u11f-33634/poule-199553/rencontre-2758322/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U11 F2 · COMA HB – AAS Sarcelles / Villiers-Le-Bel HB 1
+TRIGGER:-PT2H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:match-u11-f2-20261212-montmagny-hb-1@comahb95
-DTSTAMP:20261029T222527Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-TRANSP:TRANSPARENT
-SUMMARY:U11 F2 · COMA HB – Montmagny HB 1 (horaire à confirmer)
-LOCATION:Domicile\, salle à confirmer
-DESCRIPTION:Domicile\nChampionnat U11F · 5ème journée · U11F poule B\nF
- iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
- 1-f2-montmagny-handball-u11-f1-i94i?e=15909716\nAgenda tenu à jour par le
-  COMA HB.
-URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-montmagn
- y-handball-u11-f1-i94i?e=15909716
+UID:ffhb-2758330@comahb95
+DTSTAMP:20261123T110640Z
+DTSTART;TZID=Europe/Paris:20261212T140000
+DTEND;TZID=Europe/Paris:20261212T153000
+SUMMARY:U11 F2 · COMA HB – Montmagny HB 1
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U11F · 5e journé
+ e · U11F poule B\nFiche du match : https://www.ffhandball.fr/competitions
+ /saison-2026-2027-22/departemental/championnat-u11f-33634/poule-199553/ren
+ contre-2758330/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u11f-33634/poule-199553/rencontre-2758330/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U11 F2 · COMA HB – Montmagny HB 1
+TRIGGER:-PT2H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:match-u11-f2-20270116-us-ezanville-ecouen-hb-1@comahb95
-DTSTAMP:20261029T222527Z
+UID:ffhb-2758334@comahb95
+DTSTAMP:20261123T110640Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 TRANSP:TRANSPARENT
 SUMMARY:U11 F2 · US Ezanville / Ecouen HB 1 – COMA HB (horaire à confir
  mer)
 LOCATION:Extérieur\, salle à confirmer
-DESCRIPTION:Extérieur\nChampionnat U11F · 6ème journée · U11F poule B\
- nFiche du match : https://scorenco.com/hand/match-com-argenteuil-handball-
- u11-f2-union-sportive-ezanvilleecouen-handball-u11-f1-1xjp9?e=15909633\nAg
- enda tenu à jour par le COMA HB.
-URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-union-sp
- ortive-ezanvilleecouen-handball-u11-f1-1xjp9?e=15909633
+DESCRIPTION:Extérieur\nChampionnat U11F · 6e journée · U11F poule B\nFi
+ che du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/
+ departemental/championnat-u11f-33634/poule-199553/rencontre-2758334/\nAgen
+ da tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u11f-33634/poule-199553/rencontre-2758334/
 END:VEVENT
 BEGIN:VEVENT
-UID:match-u11-f2-20270123-hb-goussainville-1@comahb95
-DTSTAMP:20261029T222527Z
+UID:ffhb-2758338@comahb95
+DTSTAMP:20261123T110640Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 TRANSP:TRANSPARENT
 SUMMARY:U11 F2 · COMA HB – HB Goussainville 1 (horaire à confirmer)
 LOCATION:Domicile\, salle à confirmer
-DESCRIPTION:Domicile\nChampionnat U11F · 7ème journée · U11F poule B\nF
- iche du match : https://scorenco.com/hand/match-com-argenteuil-handball-u1
- 1-f2-handball-goussainville-u11-f1-1xjpf?e=15909666\nAgenda tenu à jour p
- ar le COMA HB.
-URL:https://scorenco.com/hand/match-com-argenteuil-handball-u11-f2-handball
- -goussainville-u11-f1-1xjpf?e=15909666
+DESCRIPTION:Domicile\nChampionnat U11F · 7e journée · U11F poule B\nFich
+ e du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/de
+ partemental/championnat-u11f-33634/poule-199553/rencontre-2758338/\nAgenda
+  tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u11f-33634/poule-199553/rencontre-2758338/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2758326@comahb95
+DTSTAMP:20261123T110640Z
+DTSTART;TZID=Europe/Paris:20261205T153000
+DTEND;TZID=Europe/Paris:20261205T170000
+SUMMARY:U11 F2 · ASFM 1 – COMA HB
+LOCATION:Gymnase Municipal\, Survilliers
+DESCRIPTION:Extérieur · Gymnase Municipal\, Survilliers\nChampionnat U11F
+  · 4e journée · U11F poule B\nFiche du match : https://www.ffhandball.f
+ r/competitions/saison-2026-2027-22/departemental/championnat-u11f-33634/po
+ ule-199553/rencontre-2758326/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u11f-33634/poule-199553/rencontre-2758326/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U11 F2 · ASFM 1 – COMA HB
+TRIGGER:-PT2H
+END:VALARM
 END:VEVENT
 END:VCALENDAR
