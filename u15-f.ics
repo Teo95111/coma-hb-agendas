@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ffhb-2761905@comahb95
-DTSTAMP:20261122T211011Z
+DTSTAMP:20261125T211827Z
 DTSTART;TZID=Europe/Paris:20261107T154500
 DTEND;TZID=Europe/Paris:20261107T171500
 SUMMARY:U15 F · COMA HB – HBC Soisy / Andilly / Margency 1 32-7
@@ -41,7 +41,7 @@ URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
 END:VEVENT
 BEGIN:VEVENT
 UID:ffhb-2761907@comahb95
-DTSTAMP:20261122T211011Z
+DTSTAMP:20261125T211827Z
 DTSTART;TZID=Europe/Paris:20261114T173000
 DTEND;TZID=Europe/Paris:20261114T190000
 SUMMARY:U15 F · Montmagny HB 1 – COMA HB 10-26
@@ -56,7 +56,7 @@ URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
 END:VEVENT
 BEGIN:VEVENT
 UID:ffhb-2761909@comahb95
-DTSTAMP:20261122T211011Z
+DTSTAMP:20261125T211827Z
 DTSTART;TZID=Europe/Paris:20261122T130000
 DTEND;TZID=Europe/Paris:20261122T143000
 SUMMARY:U15 F · COMA HB – Ent Evo Parisis 3 U15f 27-31
@@ -68,5 +68,230 @@ DESCRIPTION:Domicile · Gymnase Pierre-de-Coubertin (salle Cédric-Sanni)\n
  MA HB.
 URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
  l/championnat-u15f-33460/poule-199686/rencontre-2761909/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794106@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;TZID=Europe/Paris:20261128T180000
+DTEND;TZID=Europe/Paris:20261128T193000
+SUMMARY:U15 F · COMA HB – AAS Sarcelles / Villiers-Le-Bel HB 1
+LOCATION:Halle des sports Roger-Ouvrard\, 6 allée Romain-Rolland\, 95100 A
+ rgenteuil
+DESCRIPTION:Domicile · Halle Roger-Ouvrard\nChampionnat U15F · 1e journé
+ e · 1re division U15F\nFiche du match : https://www.ffhandball.fr/competi
+ tions/saison-2026-2027-22/departemental/championnat-u15f-33460/poule-20216
+ 2/rencontre-2794106/\nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794106/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U15 F · COMA HB – AAS Sarcelles / Villiers-Le-Bel HB 1
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794111@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;TZID=Europe/Paris:20261205T143000
+DTEND;TZID=Europe/Paris:20261205T160000
+SUMMARY:U15 F · HB St-Brice 95 1 – COMA HB
+LOCATION:Gymnase Lionel Terray St Brice sous Foret\, St-Brice-sous-Foret
+DESCRIPTION:Extérieur · Gymnase Lionel Terray St Brice sous Foret\, St-Br
+ ice-sous-Foret\nChampionnat U15F · 2e journée · 1re division U15F\nFich
+ e du match : https://www.ffhandball.fr/competitions/saison-2026-2027-22/de
+ partemental/championnat-u15f-33460/poule-202162/rencontre-2794111/\nAgenda
+  tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794111/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:U15 F · HB St-Brice 95 1 – COMA HB
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794116@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · COMA HB – Ent EVO Parisis 3 U15f (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U15F · 3e journée · 1re division U15F\
+ nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-
+ 22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794116/\nA
+ genda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794116/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794121@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · Ent. USDEM / Eaubonne U15f 1 – COMA HB (horaire à confi
+ rmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U15F · 4e journée · 1re division U15
+ F\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794121/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794121/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794125@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · COMA HB – Ent Elite Val Parisis 2 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U15F · 5e journée · 1re division U15F\
+ nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-
+ 22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794125/\nA
+ genda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794125/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794128@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · Magny HBC 1 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U15F · 6e journée · 1re division U15
+ F\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794128/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794128/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794131@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · COMA HB – US Ezanville / Ecouen HB (horaire à confirmer
+ )
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U15F · 7e journée · 1re division U15F\
+ nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-
+ 22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794131/\nA
+ genda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794131/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794134@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · AAS Sarcelles / Villiers-Le-Bel HB 1 – COMA HB (horaire 
+ à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U15F · 8e journée · 1re division U15
+ F\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-202
+ 7-22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794134/\
+ nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794134/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794139@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · COMA HB – HB St-Brice 95 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U15F · 9e journée · 1re division U15F\
+ nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027-
+ 22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794139/\nA
+ genda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794139/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794144@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · Ent EVO Parisis 3 U15f – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U15F · 10e journée · 1re division U1
+ 5F\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-20
+ 27-22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794144/
+ \nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794144/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794149@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · COMA HB – Ent. USDEM / Eaubonne U15f 1 (horaire à confi
+ rmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U15F · 11e journée · 1re division U15F
+ \nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027
+ -22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794149/\n
+ Agenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794149/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794153@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · Ent Elite Val Parisis 2 – COMA HB (horaire à confirmer)
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U15F · 12e journée · 1re division U1
+ 5F\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-20
+ 27-22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794153/
+ \nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794153/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794156@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · COMA HB – Magny HBC 1 (horaire à confirmer)
+LOCATION:Domicile\, salle à confirmer
+DESCRIPTION:Domicile\nChampionnat U15F · 13e journée · 1re division U15F
+ \nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-2027
+ -22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794156/\n
+ Agenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794156/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffhb-2794159@comahb95
+DTSTAMP:20261125T211827Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+TRANSP:TRANSPARENT
+SUMMARY:U15 F · US Ezanville / Ecouen HB – COMA HB (horaire à confirmer
+ )
+LOCATION:Extérieur\, salle à confirmer
+DESCRIPTION:Extérieur\nChampionnat U15F · 14e journée · 1re division U1
+ 5F\nFiche du match : https://www.ffhandball.fr/competitions/saison-2026-20
+ 27-22/departemental/championnat-u15f-33460/poule-202162/rencontre-2794159/
+ \nAgenda tenu à jour par le COMA HB.
+URL:https://www.ffhandball.fr/competitions/saison-2026-2027-22/departementa
+ l/championnat-u15f-33460/poule-202162/rencontre-2794159/
 END:VEVENT
 END:VCALENDAR
